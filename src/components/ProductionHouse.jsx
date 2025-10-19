@@ -3,7 +3,7 @@ import disney from './../assets/images/disney.png'
 import pixar from './../assets/images/pixar.png'
 import marvel from './../assets/images/marvel.png'
 import starwars from './../assets/images/starwar.png'
-import nationalg from './../assets/images/nationalg.png'
+import nationalg from './../assets/images/nationalG.png'
 
 import disneyV from './../assets/videos/disney.mp4'
 import marvelV from './../assets/videos/marvel.mp4'
