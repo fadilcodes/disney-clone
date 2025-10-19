@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import Disney from './../assets/images/Disney.svg'
-import Profile from './../assets/images/Profile-user.png'
+import Profile from './../assets/images/profile-user.png'
 import { HiHome,
     HiMagnifyingGlass,
     HiStar,
